@@ -6,11 +6,9 @@ Here you will find important updates and information regarding the Forest Hill s
 
 ## Notices
 
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-      {{ post.excerpt }}
-    </li>
-  {% endfor %}
-</ul>
+{% for post in site.posts %}
+
+- {{ post.title }}
+  {{ post.excerpt }}
+
+{% endfor %}
