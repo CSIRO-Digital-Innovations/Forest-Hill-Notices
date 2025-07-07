@@ -8,7 +8,8 @@ Here you will find important updates and information regarding the Forest Hill s
 
 {% for post in site.posts %}
 
-- {{ post.title }}
-  {{ post.excerpt }}
+### {{ post.title }}
+{ {post.date }}
+{{ post.excerpt }}
 
 {% endfor %}

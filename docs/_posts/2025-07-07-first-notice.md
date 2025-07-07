@@ -7,7 +7,5 @@ excerpt_separator: <!--more-->
 author: Julian Rich
 ---
 
-# First Post
-
 This is the first official post on the CSIRO Forest Hill Notices site.
 <!--more-->
