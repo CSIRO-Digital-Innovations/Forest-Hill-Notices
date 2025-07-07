@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "First Post"
-date: 2025-07-07 16:00:00 +1000
+date: 2025-07-07 16:00:00+1000
 categories: announcement
 excerpt_separator: <!--more-->
 author: Julian Rich

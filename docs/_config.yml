@@ -1,3 +1,4 @@
-theme: minima
+theme: jekyll-theme-minimal
 title: CSIRO Forest Hill Notices
 description: Notices for the CSIRO Forest Hill site
+nav_enabled: false
